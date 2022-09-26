@@ -1,7 +1,7 @@
 # Ciphers and concepts I have to learn
 
 * ~~AtBash~~
-* ~Caesar~~
+* ~~Caesar~~
 * Aristocrat
   - Random
   - K1
