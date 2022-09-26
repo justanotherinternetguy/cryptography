@@ -1,7 +1,7 @@
 # Ciphers and concepts I have to learn
 
-* AtBash
-* Caesar
+* ~~AtBash~~
+* ~Caesar~~
 * Aristocrat
   - Random
   - K1
@@ -14,7 +14,7 @@
   - Keyword
 * Hill 2x2
 * Hill 3x3
-* Affine
+* Affine (WIP)
 * Vigenere
 * Baconian
 * Morbit
@@ -23,6 +23,6 @@
 * Railfence
   - 0 Offset
   - Unknown Offset
-- Morse
+- Morse (WIP)
   * Cryptanalysis of Fractionated Morse
 - Cryptarithms
